@@ -1,5 +1,5 @@
-### Diversity and Equity Hackathon 
-A twitter bot that gives users information regarding LA issues
+# Diversity and Equity Hackathon 
+A Twitter bot that gives users information regarding LA gentrification issues.
 
 # How to run locally
 1. Install virtualenv
@@ -25,8 +25,8 @@ A twitter bot that gives users information regarding LA issues
     - Teagan to update this
 
 
-# IFTTT Account
+## IFTTT Account
 eaglerockbot@gmail.com
 
-# Twitter Account
+## Twitter Account
 @gentriwhy
